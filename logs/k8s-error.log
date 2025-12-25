@@ -1,4 +1,0 @@
-Back-off restarting failed container
-Error: CrashLoopBackOff
-Container exited with code 1
-Failed to connect to database
